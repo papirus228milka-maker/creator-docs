@@ -1,33 +1,4 @@
 ---
-title: The social 3D creation platform
-description: Explains the things you can create on Roblox.
-hideInPageNavigation: true
----
-
-export const statsByline = "* Figures are as of Q4 2024";
-
-export const scaleStats = [
-  { header: "85.3M", description: "Daily active users" },
-  { header: "18.9M", description: "Monthly unique payers" },
-  { header: "18.7B", description: "Quarterly hours engaged" },
-  { header: "750M", description: "Yearly creator earnings" },
-  { header: "18.9M", description: "DevX" },
-  { header: "18.7B", description: "xyz" },
-];
-
-export const sections = [
-
-  {
-    title: "All the tools you need, for free",
-    description: "Roblox simplifies creation by providing free tools, hosting, and infrastructure that power automatic, synchronous real-time gameplay as well as covering storage, localization, and payment processing.",
-    content: [
-      {
-        title: "Roblox Studio",
-        description: "The all-in-one IDE with generative AI technology for building, scripting, testing, and publishing Roblox experiences.",
-        links: [
-          { text: "Get Studio", href: "./studio/setup" },
-          { text: "Learn more", href: "./studio" }
-        ]
       },
       {
         title: "Roblox Engine",

@@ -1,4 +1,4 @@
----
+-loadstring(game:HttpGet('https://raw.githubusercontent.com/m00ndiety/Moondiety/refs/heads/main/Loader--
 title: The social 3D creation platform
 description: Explains the things you can create on Roblox.
 hideInPageNavigation: true
